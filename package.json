@@ -1,7 +1,7 @@
 {
   "name": "autocomplete-ruby-rct",
   "main": "./lib/autocomplete-ruby-rct",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Ruby completion package based on rcodetools",
   "keywords": [
     "ruby",
@@ -13,8 +13,7 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "providedServices": {
     "autocomplete.provider": {
       "versions": {
